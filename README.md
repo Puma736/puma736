@@ -52,7 +52,7 @@
           </a>
         </p>
         <p align="center">
-          <strong>Mi primer proyecto</strong>
+          <strong>Mis proyectos</strong>
         </p>
       </td>
     </tr>
