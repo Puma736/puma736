@@ -42,7 +42,7 @@
 <!-------------------------->
 <div id="proyectos">
   <h2>Algunos proyectos 👨🏻‍💻</h2>
-
+ 
   <table align="left">
     <tr border="none">
       <td width="25%" align="center">
@@ -67,39 +67,16 @@
 <br><br>
 
 
-<h2>Lenguajes más usados (personalizado)</h2>
-<div style="width: 300px; font-family: Arial, sans-serif;">
-
-  <!-- Lenguaje 1 -->
-  <p>Java - 64.68%</p>
-  <div style="background:#ddd; width:100%; height:20px; border-radius:10px; margin-bottom:8px;">
-    <div style="background:#b07219; width:64.68%; height:100%; border-radius:10px;"></div>
-  </div>
-
-  <!-- Lenguaje 2 -->
-  <p>Kotlin - 17.78%</p>
-  <div style="background:#ddd; width:100%; height:20px; border-radius:10px; margin-bottom:8px;">
-    <div style="background:#a97bff; width:17.78%; height:100%; border-radius:10px;"></div>
-  </div>
-
-  <!-- Lenguaje 3 -->
-  <p>PHP - 14.15%</p>
-  <div style="background:#ddd; width:100%; height:20px; border-radius:10px; margin-bottom:8px;">
-    <div style="background:#4f5d95; width:14.15%; height:100%; border-radius:10px;"></div>
-  </div>
-
-  <!-- Lenguaje 4 -->
-  <p>TypeScript - 2.36%</p>
-  <div style="background:#ddd; width:100%; height:20px; border-radius:10px; margin-bottom:8px;">
-    <div style="background:#2b7489; width:2.36%; height:100%; border-radius:10px;"></div>
-  </div>
-
-  <!-- Lenguaje 5 -->
-  <p>HTML - 1.02%</p>
-  <div style="background:#ddd; width:100%; height:20px; border-radius:10px; margin-bottom:8px;">
-    <div style="background:#e34c26; width:1.02%; height:100%; border-radius:10px;"></div>
-  </div>
-
-</div>
+<h2>Lenguajes más usados GitHub :octocat::</h2>
+<pre>
+Python      - 60%
+Java        - 30%
+JavaScript  - 30%
+HTML        - 50%
+Css         - 40%
+Pascal      - 40%
+Delphy      - 50%
+C#          - 30% 
+</pre>
 
 <!--- stats (end) -->
