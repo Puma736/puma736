@@ -47,7 +47,7 @@
     <tr border="none">
       <td width="25%" align="center">
         <p align="center">
-          <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="_blank" title="Ver en GitHub">
+          <a href="https://github.com/Puma736/MisProyectos" target="_blank" title="Ver en GitHub">
             <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
           </a>
         </p>
