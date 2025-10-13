@@ -1,26 +1,23 @@
 <h1 align="center">Hola 👋  soy Fabio Puma / puma736 ✨ </h1> 
 
 <p align="left">
-  <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-<a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
-<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href="https://fb.com/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
-<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<a href = "mailto:pumafabio17@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🎓  Estudiante de Ing.Redes y Telecomunicaciones
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+:bust_in_silhouette: soy estudiante de la carrera de ing.Redes y telecomunicaciones en la UAGRM y estoy Haciendo paralela con la carrera de ing.Informatica curso el 4to semestre de mi carrera.
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+💻 en lo que ba de mi carrera he creado algunos proyectos personales un juego de helicoptero con el lenguaje delphy y una calculadora de Areas y vectores hecho en Python.
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📝 roles en el ámbito: desarrollador... líder... programador... y en un futuro quién sabe ☺️
 
-📫 Contacto: **unsimpledev@gmail.com**
+📫 Contacto: **pumafabio17@gmail.com**
 <!--Intro end-->
   </p>
 <br>
@@ -42,96 +39,67 @@
 
 <br>
 
-
 <!-------------------------->
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+  <h2>Algunos proyectos 👨🏻‍💻</h2>
 
-<table align="left" >
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-<td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
+  <table align="left">
+    <tr border="none">
+      <td width="25%" align="center">
+        <p align="center">
+          <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="_blank" title="Ver en GitHub">
+            <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+          </a>
+        </p>
+        <p align="center">
+          <strong>Mi primer proyecto</strong>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-   <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  
-</tr>
-</table>
-  </div>
 <br>
+
 <br><br>
 <br>
 <br><br><br>
 <br><br>
 
 
-<h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
+<h2>Lenguajes más usados (personalizado)</h2>
+<div style="width: 300px; font-family: Arial, sans-serif;">
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
-</td>
+  <!-- Lenguaje 1 -->
+  <p>Java - 64.68%</p>
+  <div style="background:#ddd; width:100%; height:20px; border-radius:10px; margin-bottom:8px;">
+    <div style="background:#b07219; width:64.68%; height:100%; border-radius:10px;"></div>
+  </div>
 
-<td width="40%" align="center">
+  <!-- Lenguaje 2 -->
+  <p>Kotlin - 17.78%</p>
+  <div style="background:#ddd; width:100%; height:20px; border-radius:10px; margin-bottom:8px;">
+    <div style="background:#a97bff; width:17.78%; height:100%; border-radius:10px;"></div>
+  </div>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <!-- Lenguaje 3 -->
+  <p>PHP - 14.15%</p>
+  <div style="background:#ddd; width:100%; height:20px; border-radius:10px; margin-bottom:8px;">
+    <div style="background:#4f5d95; width:14.15%; height:100%; border-radius:10px;"></div>
+  </div>
 
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+  <!-- Lenguaje 4 -->
+  <p>TypeScript - 2.36%</p>
+  <div style="background:#ddd; width:100%; height:20px; border-radius:10px; margin-bottom:8px;">
+    <div style="background:#2b7489; width:2.36%; height:100%; border-radius:10px;"></div>
+  </div>
 
-<!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+  <!-- Lenguaje 5 -->
+  <p>HTML - 1.02%</p>
+  <div style="background:#ddd; width:100%; height:20px; border-radius:10px; margin-bottom:8px;">
+    <div style="background:#e34c26; width:1.02%; height:100%; border-radius:10px;"></div>
+  </div>
+
 </div>
-<!--- trophy (start) -->
 
-
-</p>        
 <!--- stats (end) -->
