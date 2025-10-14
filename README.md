@@ -11,7 +11,7 @@
 <p align="left">
 🎓  Estudiante de Ing.Redes y Telecomunicaciones
 
-:bust_in_silhouette: soy estudiante de la carrera de ing.Redes y telecomunicaciones en la UAGRM y estoy Haciendo paralela con la carrera de ing.Informatica curso el 4to semestre de mi carrera.
+:bust_in_silhouette: soy estudiante de la carrera de ing.Redes y telecomunicaciones  estoy Haciendo paralela con la carrera de ing.Informatica curso el 4to semestre de mi carrera.
 
 💻 en lo que ba de mi carrera he creado algunos proyectos personales un juego de helicoptero con el lenguaje delphy y una calculadora de Areas y vectores hecho en Python.
 
