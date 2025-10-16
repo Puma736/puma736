@@ -68,10 +68,10 @@
             <img src="https://github.com/user-attachments/assets/d7b73136-7eb9-4682-b746-accb53d213a9" 
                  alt="Proyecto 2" width="350" 
                  style="border-radius:10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
-          </a>
+         </a>
         </p>
         <p align="center">
-          <a href="https://github.com/Puma736/OtroProyecto" target="_blank" title="Ver en GitHub">
+          <a href="https://github.com/Puma736/MisProyectos/tree/master/JuegoDelElicoptero" target="_blank" title="Ver en GitHub">
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
           </a>
         </p>
@@ -87,6 +87,7 @@
 <br><br>
 <br>
 <br><br><br>
+<br><br>
 <br><br>
 <br><br>
 
