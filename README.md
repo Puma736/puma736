@@ -42,10 +42,17 @@
 <!-------------------------->
 <div id="proyectos">
   <h2>Algunos proyectos 👨🏻‍💻</h2>
- 
+
   <table align="left">
     <tr border="none">
       <td width="25%" align="center">
+        <!-- Imagen del proyecto -->
+        <p align="center">
+          <a href="https://github.com/Puma736/MisProyectos" target="_blank" title="Ver en GitHub">
+            <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Proyecto 1" width="250" style="border-radius:10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
+          </a>
+        </p>
+        <!-- Botón de GitHub debajo -->
         <p align="center">
           <a href="https://github.com/Puma736/MisProyectos" target="_blank" title="Ver en GitHub">
             <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -54,6 +61,22 @@
         <p align="center">
           <strong>Mis proyectos</strong>
         </p>
+      </td>
+       <td width="25%" align="left">
+        <p align="left"  >
+          <a href="https://github.com/Puma736/OtroProyecto" target="_blank" title="Ver en GitHub">
+            <img src="https://github.com/user-attachments/assets/d7b73136-7eb9-4682-b746-accb53d213a9" 
+                 alt="Proyecto 2" width="350" 
+                 style="border-radius:10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
+          </a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/Puma736/OtroProyecto" target="_blank" title="Ver en GitHub">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+          </a>
+        </p>
+        <p align="center">
+          <strong>JuegoDelHelicoptero</strong></p>
       </td>
     </tr>
   </table>
@@ -65,7 +88,7 @@
 <br>
 <br><br><br>
 <br><br>
-
+<br><br>
 
 <h2>Lenguajes más usados GitHub :octocat::</h2>
 <pre>
