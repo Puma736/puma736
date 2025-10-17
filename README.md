@@ -13,7 +13,7 @@
 
 :bust_in_silhouette: soy estudiante de la carrera de ing.Redes y telecomunicaciones  estoy Haciendo paralela con la carrera de ing.Informatica curso el 4to semestre de mi carrera.
 
-💻 en lo que ba de mi carrera he creado algunos proyectos personales un juego de helicoptero con el lenguaje delphy y una calculadora de Areas y vectores hecho en Python.
+💻 en lo que ba de mi carrera he creado algunos proyectos personales un juego de helicoptero con delphy y una calculadora de Areas y vectores  en Python y otros mas...
 
 📝 roles en el ámbito: desarrollador... líder... programador... y en un futuro quién sabe ☺️
 
