@@ -13,7 +13,7 @@
 <br>
 :bust_in_silhouette: Soy estudiante de la carrera de Ingeniería en Redes y Telecomunicaciones, y actualmente también curso la carrera de Ingeniería Informática. Estoy en el 4to semestre.  
 <br><br>
-💻 A lo largo de mi formación he desarrollado varios proyectos personales, entre ellos un juego de helicóptero en Delphi y una calculadora de áreas y vectores en Python, entre otros.  
+💻 A lo largo de mi formación he desarrollado Algunos proyectos personales, entre ellos un juego de helicóptero en Delphi y una calculadora de áreas y vectores en Python, entre otros.  
 <br><br>
 📝 Roles en el ámbito: desarrollador, programador y líder de proyectos. En un futuro… quién sabe ☺️  
 <br><br>
