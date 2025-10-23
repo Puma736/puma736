@@ -9,17 +9,16 @@
 <!--Intro start-->
 
 <p align="left">
-🎓  Estudiante de Ing.Redes y Telecomunicaciones
-
-:bust_in_silhouette: soy estudiante de la carrera de ing.Redes y telecomunicaciones  estoy Haciendo paralela con la carrera de ing.Informatica curso el 4to semestre de mi carrera.
-
-💻 en lo que ba de mi carrera he creado algunos proyectos personales un juego de helicoptero con delphy y una calculadora de Areas y vectores  en Python y otros mas...
-
-📝 roles en el ámbito: desarrollador... líder... programador... y en un futuro quién sabe ☺️
-
-📫 Contacto: **pumafabio17@gmail.com**
-<!--Intro end-->
-  </p>
+🎓 Estudiante de Ingeniería en Redes y Telecomunicaciones  
+<br>
+:bust_in_silhouette: Soy estudiante de la carrera de Ingeniería en Redes y Telecomunicaciones, y actualmente también curso la carrera de Ingeniería Informática. Estoy en el 4to semestre.  
+<br><br>
+💻 A lo largo de mi formación he desarrollado varios proyectos personales, entre ellos un juego de helicóptero en Delphi y una calculadora de áreas y vectores en Python, entre otros.  
+<br><br>
+📝 Roles en el ámbito: desarrollador, programador y líder de proyectos. En un futuro… quién sabe ☺️  
+<br><br>
+📫 Contacto: <strong>pumafabio17@gmail.com</strong>
+</p>
 <br>
 
 <h2>Tecnologías conocidas 👨🏻‍💻</h2>
