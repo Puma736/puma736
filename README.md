@@ -11,7 +11,7 @@
 <p align="left">
 🎓 Estudiante de Ingeniería en Redes y Telecomunicaciones  
 <br>
-:bust_in_silhouette: Soy estudiante de la carrera de Ingeniería en Redes y Telecomunicaciones, y actualmente también curso la carrera de Ingeniería Informática. Estoy en el 4to semestre.  
+:bust_in_silhouette: Soy estudiante de la carrera de Ingeniería en Redes y Telecomunicaciones, y actualmente también curso la carrera de Ingeniería Informática.  
 <br><br>
 💻 A lo largo de mi formación he desarrollado Algunos proyectos personales, entre ellos un juego de helicóptero en Delphi y una calculadora de áreas y vectores en Python, entre otros.  
 <br><br>
