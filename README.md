@@ -9,9 +9,9 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Estudiante de Ingeniería en Redes y Telecomunicaciones  
+🎓 Estudiante de Ingeniería en sistemas  
 <br>
-:bust_in_silhouette: Soy estudiante de la carrera de Ingeniería en Redes y Telecomunicaciones, y actualmente también curso la carrera de Ingeniería Informática.  
+:bust_in_silhouette: Soy estudiante de la carrera de Ingeniería en Sistemas, y actualmente también curso la carrera de Ingeniería Informática.  
 <br><br>
 💻 A lo largo de mi formación he desarrollado Algunos proyectos personales, entre ellos un juego de helicóptero en Delphi y una calculadora de áreas y vectores en Python, entre otros.  
 <br><br>
