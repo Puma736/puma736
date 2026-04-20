@@ -21,6 +21,8 @@
 🏆 Participante Activo en Hackathones | Apasionado por crear soluciones innovadoras en tiempo récord.
 <br><br>
 📍 Active member of tech communities like GDG Santa Cruz & AWS User Groups.
+<br>
+ (Staff y Miembro Activo en comunidades tecnológicas como GDG Santa Cruz y AWS User Groups)
 <br><br>
 📫 Contacto: <strong>pumafabio17@gmail.com</strong>
 </p>
