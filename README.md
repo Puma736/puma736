@@ -19,7 +19,9 @@
 <br><br>
 💻 Mi trayectoria incluye el desarrollo de Implementación de un sistema de reconocimiento facial y biometría desarrollado en Python.
    Creación de plataformas optimizadas para sectores comerciales, incluyendo soluciones digitales para Farmacias y Salon de belleza.
+  <br>
    Videojuegos & Simulación:
+  <br>
    Space Orchard: Un juego de gestión de recursos espaciales.
    Helicopter Challenge: Simulador de vuelo desarrollado en Delphi.
 <br><br>
