@@ -14,21 +14,17 @@
 <br><br>
 :bust_in_silhouette: Soy estudiante de la carrera de Ingeniería Informática.  
 <br><br>
-🚀 Frontend Developer & AI Specialist 
-   Desarrollador enfocado en soluciones digitales, desde plataformas web para el sector retail hasta sistemas
-  <br>
-   de visión artificial y biometría. Especialista en    Prompt Engineering para optimizar flujos de trabajo con modelos de lenguaje (LLMs).
-  <br>
+🚀 Tengo experiencia combinando desarrollo frontend con algoritmos de reconocimiento facial y manejo avanzado de LLMs a través de Prompt Engineering.
 <br><br>
-💻 Mi trayectoria incluye el desarrollo de Implementación de un sistema de reconocimiento facial y biometría desarrollado en Python.
-  <br>
-   Creación de plataformas optimizadas para sectores comerciales, incluyendo soluciones digitales para Farmacias y Salon de belleza.
-  <br>
-   Videojuegos & Simulación:
-  <br>
-   Space Orchard: Un juego de gestión de recursos espaciales.
-  <br>
-   Helicopter Challenge: Simulador de vuelo desarrollado en Delphi.
+💻  Mi trayectoria incluye el desarrollo de Implementación de un sistema de reconocimiento facial y biometría desarrollado en Python.
+    <br>
+    Creación de plataformas optimizadas para sectores comerciales, incluyendo soluciones digitales para Farmacias y Salon de belleza.
+    <br>
+    Videojuegos & Simulación:
+    <br>
+    Space Orchard: Un juego de gestión de recursos espaciales.
+    <br>
+    Helicopter Challenge: Simulador de vuelo desarrollado en Delphi.
 <br><br>
 📝 Roles en el ámbito: desarrollador, programador y líder de proyectos. En un futuro… quién sabe ☺️  
 <br><br>
