@@ -14,7 +14,7 @@
 <br><br>
 :bust_in_silhouette: Soy estudiante de la carrera de Ingeniería Informática.  
 <br><br>
-💻 A lo largo de mi formación he desarrollado Algunos proyectos personales, entre ellos un juego de helicóptero en Delphi y una calculadora de áreas y vectores en Python, entre otros.  
+💻 Mi trayectoria incluye el desarrollo de soluciones digitales integrales, desde el despliegue de plataformas web optimizadas para el sector retail (Salón de Belleza) hasta la implementación de sistemas de biometría y visión artificial para el reconocimiento facial. Además, me especializo en Prompt Engineering,    optimizando la interacción con modelos de lenguaje para maximizar la eficiencia en flujos de trabajo automatizados.  
 <br><br>
 📝 Roles en el ámbito: desarrollador, programador y líder de proyectos. En un futuro… quién sabe ☺️  
 <br><br>
