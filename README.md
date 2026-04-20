@@ -8,14 +8,17 @@
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
+
 <p align="left">
-🎓 Estudiante de Ingeniería en sistemas  
+🎓 Computer Science Student | 💻 Frontend & UI/UX Specialist | ⚙️ Backend Developer 
 <br>
 :bust_in_silhouette: Soy estudiante de la carrera de Ingeniería en Sistemas, y actualmente también curso la carrera de Ingeniería Informática.  
 <br><br>
 💻 A lo largo de mi formación he desarrollado Algunos proyectos personales, entre ellos un juego de helicóptero en Delphi y una calculadora de áreas y vectores en Python, entre otros.  
 <br><br>
 📝 Roles en el ámbito: desarrollador, programador y líder de proyectos. En un futuro… quién sabe ☺️  
+<br><br>
+📍 Active member of tech communities like GDG Santa Cruz & AWS User Groups.
 <br><br>
 📫 Contacto: <strong>pumafabio17@gmail.com</strong>
 </p>
