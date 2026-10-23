@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Fabio Puma / puma736 ✨ </h1> 
+<h1 align="center">Hola 👋  soi Fabio Puma / puma736 ✨ </h1> 
 
 <p align="left">
 
